@@ -1,0 +1,2 @@
+This is the first message
+this is the message from the staged section  
